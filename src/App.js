@@ -9,7 +9,11 @@ export default function App() {
       <footer>
         {" "}
         This project was created by Hanna and is{" "}
-        <a href="https://github.com/UAHanna/react-weather-app" target="_blank">
+        <a
+          href="https://github.com/UAHanna/react-weather-app"
+          target="_blank"
+          rel="noreferrer"
+        >
           open-soursed on Github
         </a>
       </footer>
